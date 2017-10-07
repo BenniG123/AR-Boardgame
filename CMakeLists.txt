@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 2.8)
+project( "AR-Boardgame" )
+find_package( OpenCV REQUIRED )
+add_executable( AR src/detect_markers.cpp )
+target_link_libraries( AR ${OpenCV_LIBS} )

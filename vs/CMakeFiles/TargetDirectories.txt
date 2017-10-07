@@ -1,0 +1,3 @@
+C:/Users/wben7/Documents/cvtutorial/AR Boardgame/vs/CMakeFiles/AR.dir
+C:/Users/wben7/Documents/cvtutorial/AR Boardgame/vs/CMakeFiles/ALL_BUILD.dir
+C:/Users/wben7/Documents/cvtutorial/AR Boardgame/vs/CMakeFiles/ZERO_CHECK.dir

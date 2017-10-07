@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\wben7\Documents\cvtutorial\AR Boardgame\vs\CMakeFiles\4a857bf0e9521dd99737af5740815481\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{6C317EF1-1CAB-350B-B0E6-C0A6E8318077}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
